@@ -3,9 +3,9 @@
   "background": "images/background.jpg",
   "icon": "images/eight.png",
   "title": "Mario Kart 8 Deluxe Course Sorter",
-  "subTitle": "Rank the original 48 courses by comparing pairs of courses",
+  "subTitle": "Rank all courses by comparing pairs of courses",
   "navigation": [
-    {"text": "Original"},
+    {"text": "Original", "url": "/"},
     {"text": "Booster Wave 1", "data": "booster1.json"}
   ],
   "options": [
@@ -56,6 +56,14 @@
     {"title": "3DS Neo Bowser City",     "subTitle": "Bell Cup",      "image": "images/courses/bell1.jpg",      "icon": "images/cups/bell.png"},
     {"title": "GBA Ribbon Road",         "subTitle": "Bell Cup",      "image": "images/courses/bell2.jpg",      "icon": "images/cups/bell.png"},
     {"title": "Super Bell Subway",       "subTitle": "Bell Cup",      "image": "images/courses/bell3.jpg",      "icon": "images/cups/bell.png"},
-    {"title": "Big Blue",                "subTitle": "Bell Cup",      "image": "images/courses/bell4.jpg",      "icon": "images/cups/bell.png"}
+    {"title": "Big Blue",                "subTitle": "Bell Cup",      "image": "images/courses/bell4.jpg",      "icon": "images/cups/bell.png"},
+    {"title": "Paris Promenade",         "subTitle": "Golden Dash Cup",  "image": "images/booster/courses/goldendash1.jpg",  "icon": "images/booster/cups/goldendash.png"},
+    {"title": "Toad Circuit",            "subTitle": "Golden Dash Cup",  "image": "images/booster/courses/goldendash2.jpg",  "icon": "images/booster/cups/goldendash.png"},
+    {"title": "Choco Mountain",          "subTitle": "Golden Dash Cup",  "image": "images/booster/courses/goldendash3.jpg",  "icon": "images/booster/cups/goldendash.png"},
+    {"title": "Coconut Mall",            "subTitle": "Golden Dash Cup",  "image": "images/booster/courses/goldendash4.jpg",  "icon": "images/booster/cups/goldendash.png"},
+    {"title": "Tokyo Blur",              "subTitle": "Lucky Cat Cup",    "image": "images/booster/courses/luckycat1.jpg",    "icon": "images/booster/cups/luckycat.png"},
+    {"title": "Shroom Ridge",            "subTitle": "Lucky Cat Cup",    "image": "images/booster/courses/luckycat2.jpg",    "icon": "images/booster/cups/luckycat.png"},
+    {"title": "Sky Garden",              "subTitle": "Lucky Cat Cup",    "image": "images/booster/courses/luckycat3.jpg",    "icon": "images/booster/cups/luckycat.png"},
+    {"title": "Ninja Hideaway",          "subTitle": "Lucky Cat Cup",    "image": "images/booster/courses/luckycat4.jpg",    "icon": "images/booster/cups/luckycat.png"}
   ]
 }
