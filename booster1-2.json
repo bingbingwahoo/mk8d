@@ -1,0 +1,31 @@
+{
+  "favicon": "images/favicon.ico",
+  "background": "images/background.jpg",
+  "icon": "images/eight.png",
+  "title": "Mario Kart 8 Deluxe Course Sorter",
+  "subTitle": "Rank the Booster Pass Waves 1-2 courses by comparing pairs of courses",
+  "navigation": [
+    {"text": "Original", "url": "/"},
+    {"text": "Booster Wave 1", "data": "booster1.json"},
+    {"text": "Booster Wave 2", "data": "booster2.json"},
+    {"text": "Booster Waves 1-2"}
+  ],
+  "options": [
+    {"title": "Paris Promenade",         "subTitle": "Golden Dash Cup",  "image": "images/booster/courses/goldendash1.jpg",  "icon": "images/booster/cups/goldendash.png"},
+    {"title": "Toad Circuit",            "subTitle": "Golden Dash Cup",  "image": "images/booster/courses/goldendash2.jpg",  "icon": "images/booster/cups/goldendash.png"},
+    {"title": "Choco Mountain",          "subTitle": "Golden Dash Cup",  "image": "images/booster/courses/goldendash3.jpg",  "icon": "images/booster/cups/goldendash.png"},
+    {"title": "Coconut Mall",            "subTitle": "Golden Dash Cup",  "image": "images/booster/courses/goldendash4.jpg",  "icon": "images/booster/cups/goldendash.png"},
+    {"title": "Tokyo Blur",              "subTitle": "Lucky Cat Cup",    "image": "images/booster/courses/luckycat1.jpg",    "icon": "images/booster/cups/luckycat.png"},
+    {"title": "Shroom Ridge",            "subTitle": "Lucky Cat Cup",    "image": "images/booster/courses/luckycat2.jpg",    "icon": "images/booster/cups/luckycat.png"},
+    {"title": "Sky Garden",              "subTitle": "Lucky Cat Cup",    "image": "images/booster/courses/luckycat3.jpg",    "icon": "images/booster/cups/luckycat.png"},
+    {"title": "Ninja Hideaway",          "subTitle": "Lucky Cat Cup",    "image": "images/booster/courses/luckycat4.jpg",    "icon": "images/booster/cups/luckycat.png"},
+    {"title": "New York Minute",         "subTitle": "Turnip Cup",       "image": "images/booster/courses/turnip1.jpg",      "icon": "images/booster/cups/turnip.png"},
+    {"title": "Mario Circuit 3",         "subTitle": "Turnip Cup",       "image": "images/booster/courses/turnip2.jpg",      "icon": "images/booster/cups/turnip.png"},
+    {"title": "Kalamari Desert",         "subTitle": "Turnip Cup",       "image": "images/booster/courses/turnip3.jpg",      "icon": "images/booster/cups/turnip.png"},
+    {"title": "Waluigi Pinball",         "subTitle": "Turnip Cup",       "image": "images/booster/courses/turnip4.jpg",      "icon": "images/booster/cups/turnip.png"},
+    {"title": "Sydney Sprint",           "subTitle": "Propeller Cup",    "image": "images/booster/courses/propeller1.jpg",   "icon": "images/booster/cups/propeller.png"},
+    {"title": "Snow Land",               "subTitle": "Propeller Cup",    "image": "images/booster/courses/propeller2.jpg",   "icon": "images/booster/cups/propeller.png"},
+    {"title": "Mushroom Gorge",          "subTitle": "Propeller Cup",    "image": "images/booster/courses/propeller3.jpg",   "icon": "images/booster/cups/propeller.png"},
+    {"title": "Sky-High Sundae",         "subTitle": "Propeller Cup",    "image": "images/booster/courses/propeller4.jpg",   "icon": "images/booster/cups/propeller.png"}
+  ]
+}

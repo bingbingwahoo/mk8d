@@ -6,7 +6,9 @@
   "subTitle": "Rank the Booster Pass Wave 1 courses by comparing pairs of courses",
   "navigation": [
     {"text": "Original", "url": "/"},
-    {"text": "Booster Wave 1"}
+    {"text": "Booster Wave 1"},
+    {"text": "Booster Wave 2", "data": "booster2.json"},
+    {"text": "Booster Waves 1-2", "data": "booster1-2.json"}
   ],
   "options": [
     {"title": "Paris Promenade",         "subTitle": "Golden Dash Cup",  "image": "images/booster/courses/goldendash1.jpg",  "icon": "images/booster/cups/goldendash.png"},
