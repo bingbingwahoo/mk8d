@@ -1,0 +1,24 @@
+{
+  "favicon": "images/favicon.ico",
+  "background": "images/background.jpg",
+  "icon": "images/eight.png",
+  "title": "Mario Kart 8 Deluxe Course Sorter",
+  "subTitle": "Rank the Booster Pass Wave 3 courses by comparing pairs of courses",
+  "navigation": [
+    {"text": "Original", "url": "/"},
+    {"text": "Booster Wave 1", "data": "booster1.json"},
+    {"text": "Booster Wave 2", "data": "booster2.json"},
+    {"text": "Booster Wave 3"},
+    {"text": "Booster Waves 1-3", "data": "booster1-3.json"}
+  ],
+  "options": [
+    {"title": "London Loop",        "subTitle": "Rock Cup", "image": "images/booster/courses/rock1.jpg", "icon": "images/booster/cups/rock.png"},
+    {"title": "Boo Lake",           "subTitle": "Rock Cup", "image": "images/booster/courses/rock2.jpg", "icon": "images/booster/cups/rock.png"},
+    {"title": "Rock Rock Mountain", "subTitle": "Rock Cup", "image": "images/booster/courses/rock3.jpg", "icon": "images/booster/cups/rock.png"},
+    {"title": "Maple Treeway",      "subTitle": "Rock Cup", "image": "images/booster/courses/rock4.jpg", "icon": "images/booster/cups/rock.png"},
+    {"title": "Berlin Byways",      "subTitle": "Moon Cup", "image": "images/booster/courses/moon1.jpg", "icon": "images/booster/cups/moon.png"},
+    {"title": "Peach Gardens",      "subTitle": "Moon Cup", "image": "images/booster/courses/moon2.jpg", "icon": "images/booster/cups/moon.png"},
+    {"title": "Merry Mountain",     "subTitle": "Moon Cup", "image": "images/booster/courses/moon3.jpg", "icon": "images/booster/cups/moon.png"},
+    {"title": "Rainbow Road 3DS",   "subTitle": "Moon Cup", "image": "images/booster/courses/moon4.jpg", "icon": "images/booster/cups/moon.png"}
+  ]
+}
