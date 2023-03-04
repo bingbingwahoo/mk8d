@@ -3,14 +3,14 @@
   "background": "images/background.jpg",
   "icon": "images/eight.png",
   "title": "Mario Kart 8 Deluxe Course Sorter",
-  "subTitle": "Rank the Booster Pass Waves 1-2 courses by comparing pairs of courses",
+  "subTitle": "Rank the Booster Pass Waves 1-4 courses by comparing pairs of courses",
   "navigation": [
     {"text": "Original", "url": "/"},
     {"text": "Booster Wave 1", "data": "booster1.json"},
     {"text": "Booster Wave 2", "data": "booster2.json"},
     {"text": "Booster Wave 3", "data": "booster3.json"},
     {"text": "Booster Wave 4", "data": "booster4.json"},
-    {"text": "Booster Waves 1-2"}
+    {"text": "Booster Waves 1-4"}
   ],
   "options": [
     {"title": "Paris Promenade",         "subTitle": "Golden Dash Cup",  "image": "images/booster/courses/goldendash1.jpg",  "icon": "images/booster/cups/goldendash.png"},
@@ -28,6 +28,22 @@
     {"title": "Sydney Sprint",           "subTitle": "Propeller Cup",    "image": "images/booster/courses/propeller1.jpg",   "icon": "images/booster/cups/propeller.png"},
     {"title": "Snow Land",               "subTitle": "Propeller Cup",    "image": "images/booster/courses/propeller2.jpg",   "icon": "images/booster/cups/propeller.png"},
     {"title": "Mushroom Gorge",          "subTitle": "Propeller Cup",    "image": "images/booster/courses/propeller3.jpg",   "icon": "images/booster/cups/propeller.png"},
-    {"title": "Sky-High Sundae",         "subTitle": "Propeller Cup",    "image": "images/booster/courses/propeller4.jpg",   "icon": "images/booster/cups/propeller.png"}
+    {"title": "Sky-High Sundae",         "subTitle": "Propeller Cup",    "image": "images/booster/courses/propeller4.jpg",   "icon": "images/booster/cups/propeller.png"},
+    {"title": "London Loop",             "subTitle": "Rock Cup",         "image": "images/booster/courses/rock1.jpg",        "icon": "images/booster/cups/rock.png"},
+    {"title": "Boo Lake",                "subTitle": "Rock Cup",         "image": "images/booster/courses/rock2.jpg",        "icon": "images/booster/cups/rock.png"},
+    {"title": "Rock Rock Mountain",      "subTitle": "Rock Cup",         "image": "images/booster/courses/rock3.jpg",        "icon": "images/booster/cups/rock.png"},
+    {"title": "Maple Treeway",           "subTitle": "Rock Cup",         "image": "images/booster/courses/rock4.jpg",        "icon": "images/booster/cups/rock.png"},
+    {"title": "Berlin Byways",           "subTitle": "Moon Cup",         "image": "images/booster/courses/moon1.jpg",        "icon": "images/booster/cups/moon.png"},
+    {"title": "Peach Gardens",           "subTitle": "Moon Cup",         "image": "images/booster/courses/moon2.jpg",        "icon": "images/booster/cups/moon.png"},
+    {"title": "Merry Mountain",          "subTitle": "Moon Cup",         "image": "images/booster/courses/moon3.jpg",        "icon": "images/booster/cups/moon.png"},
+    {"title": "Rainbow Road 3DS",        "subTitle": "Moon Cup",         "image": "images/booster/courses/moon4.jpg",        "icon": "images/booster/cups/moon.png"},
+    {"title": "Amsterdam Drift",         "subTitle": "Fruit Cup",        "image": "images/booster/courses/fruit1.jpg",       "icon": "images/booster/cups/fruit.png"},
+    {"title": "Riverside Park",          "subTitle": "Fruit Cup",        "image": "images/booster/courses/fruit2.jpg",       "icon": "images/booster/cups/fruit.png"},
+    {"title": "DK Summit",               "subTitle": "Fruit Cup",        "image": "images/booster/courses/fruit3.jpg",       "icon": "images/booster/cups/fruit.png"},
+    {"title": "Yoshi's Island",          "subTitle": "Fruit Cup",        "image": "images/booster/courses/fruit4.jpg",       "icon": "images/booster/cups/fruit.png"},
+    {"title": "Bangkok Rush",            "subTitle": "Boomerang Cup",    "image": "images/booster/courses/boomerang1.jpg",   "icon": "images/booster/cups/boomerang.png"},
+    {"title": "Mario Circuit",           "subTitle": "Boomerang Cup",    "image": "images/booster/courses/boomerang2.jpg",   "icon": "images/booster/cups/boomerang.png"},
+    {"title": "Waluigi Stadium",         "subTitle": "Boomerang Cup",    "image": "images/booster/courses/boomerang3.jpg",   "icon": "images/booster/cups/boomerang.png"},
+    {"title": "Singapore Speedway",      "subTitle": "Boomerang Cup",    "image": "images/booster/courses/boomerang4.jpg",   "icon": "images/booster/cups/boomerang.png"}
   ]
 }

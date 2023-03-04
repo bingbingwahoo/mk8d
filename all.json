@@ -9,7 +9,8 @@
     {"text": "Booster Wave 1", "data": "booster1.json"},
     {"text": "Booster Wave 2", "data": "booster2.json"},
     {"text": "Booster Wave 3", "data": "booster3.json"},
-    {"text": "Booster Waves 1-3", "data": "booster1-3.json"}
+    {"text": "Booster Wave 4", "data": "booster4.json"},
+    {"text": "Booster Waves 1-4", "data": "booster1-4.json"}
   ],
   "options": [
     {"title": "Mario Kart Stadium",      "subTitle": "Mushroom Cup",  "image": "images/courses/mushroom1.jpg",  "icon": "images/cups/mushroom.png"},
