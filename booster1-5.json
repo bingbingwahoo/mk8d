@@ -3,7 +3,7 @@
   "background": "images/background.jpg",
   "icon": "images/eight.png",
   "title": "Mario Kart 8 Deluxe Course Sorter",
-  "subTitle": "Rank the Booster Pass Waves 1-4 courses by comparing pairs of courses",
+  "subTitle": "Rank the Booster Pass Waves 1-5 courses by comparing pairs of courses",
   "navigation": [
     {"text": "Original", "url": "/"},
     {"text": "Booster Wave 1", "data": "booster1.json"},
@@ -11,7 +11,7 @@
     {"text": "Booster Wave 3", "data": "booster3.json"},
     {"text": "Booster Wave 4", "data": "booster4.json"},
     {"text": "Booster Wave 5", "data": "booster5.json"},
-    {"text": "Booster Waves 1-4"}
+    {"text": "Booster Waves 1-5"}
   ],
   "options": [
     {"title": "Paris Promenade",         "subTitle": "Golden Dash Cup",  "image": "images/booster/courses/goldendash1.jpg",  "icon": "images/booster/cups/goldendash.png"},
@@ -45,6 +45,14 @@
     {"title": "Bangkok Rush",            "subTitle": "Boomerang Cup",    "image": "images/booster/courses/boomerang1.jpg",   "icon": "images/booster/cups/boomerang.png"},
     {"title": "Mario Circuit",           "subTitle": "Boomerang Cup",    "image": "images/booster/courses/boomerang2.jpg",   "icon": "images/booster/cups/boomerang.png"},
     {"title": "Waluigi Stadium",         "subTitle": "Boomerang Cup",    "image": "images/booster/courses/boomerang3.jpg",   "icon": "images/booster/cups/boomerang.png"},
-    {"title": "Singapore Speedway",      "subTitle": "Boomerang Cup",    "image": "images/booster/courses/boomerang4.jpg",   "icon": "images/booster/cups/boomerang.png"}
+    {"title": "Singapore Speedway",      "subTitle": "Boomerang Cup",    "image": "images/booster/courses/boomerang4.jpg",   "icon": "images/booster/cups/boomerang.png"},
+    {"title": "Athens Dash",             "subTitle": "Feather Cup",      "image": "images/booster/courses/feather1.jpg",     "icon": "images/booster/cups/feather.png"},
+    {"title": "Daisy Cruiser",           "subTitle": "Feather Cup",      "image": "images/booster/courses/feather2.jpg",     "icon": "images/booster/cups/feather.png"},
+    {"title": "Moonview Highway",        "subTitle": "Feather Cup",      "image": "images/booster/courses/feather3.jpg",     "icon": "images/booster/cups/feather.png"},
+    {"title": "Squeaky Clean Sprint",    "subTitle": "Feather Cup",      "image": "images/booster/courses/feather4.jpg",     "icon": "images/booster/cups/feather.png"},
+    {"title": "Los Angeles Laps",        "subTitle": "Cherry Cup",       "image": "images/booster/courses/cherry1.jpg",      "icon": "images/booster/cups/cherry.png"},
+    {"title": "Sunset Wilds",            "subTitle": "Cherry Cup",       "image": "images/booster/courses/cherry2.jpg",      "icon": "images/booster/cups/cherry.png"},
+    {"title": "Koopa Cape",              "subTitle": "Cherry Cup",       "image": "images/booster/courses/cherry3.jpg",      "icon": "images/booster/cups/cherry.png"},
+    {"title": "Vancouver Velocity",      "subTitle": "Cherry Cup",       "image": "images/booster/courses/cherry4.jpg",      "icon": "images/booster/cups/cherry.png"}
   ]
 }

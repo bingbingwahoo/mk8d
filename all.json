@@ -10,7 +10,8 @@
     {"text": "Booster Wave 2", "data": "booster2.json"},
     {"text": "Booster Wave 3", "data": "booster3.json"},
     {"text": "Booster Wave 4", "data": "booster4.json"},
-    {"text": "Booster Waves 1-4", "data": "booster1-4.json"}
+    {"text": "Booster Wave 5", "data": "booster5.json"},
+    {"text": "Booster Waves 1-5", "data": "booster1-5.json"}
   ],
   "options": [
     {"title": "Mario Kart Stadium",      "subTitle": "Mushroom Cup",  "image": "images/courses/mushroom1.jpg",  "icon": "images/cups/mushroom.png"},
@@ -84,6 +85,22 @@
     {"title": "Berlin Byways",           "subTitle": "Moon Cup",         "image": "images/booster/courses/moon1.jpg",        "icon": "images/booster/cups/moon.png"},
     {"title": "Peach Gardens",           "subTitle": "Moon Cup",         "image": "images/booster/courses/moon2.jpg",        "icon": "images/booster/cups/moon.png"},
     {"title": "Merry Mountain",          "subTitle": "Moon Cup",         "image": "images/booster/courses/moon3.jpg",        "icon": "images/booster/cups/moon.png"},
-    {"title": "Rainbow Road 3DS",        "subTitle": "Moon Cup",         "image": "images/booster/courses/moon4.jpg",        "icon": "images/booster/cups/moon.png"}
+    {"title": "Rainbow Road 3DS",        "subTitle": "Moon Cup",         "image": "images/booster/courses/moon4.jpg",        "icon": "images/booster/cups/moon.png"},
+    {"title": "Amsterdam Drift",         "subTitle": "Fruit Cup",        "image": "images/booster/courses/fruit1.jpg",       "icon": "images/booster/cups/fruit.png"},
+    {"title": "Riverside Park",          "subTitle": "Fruit Cup",        "image": "images/booster/courses/fruit2.jpg",       "icon": "images/booster/cups/fruit.png"},
+    {"title": "DK Summit",               "subTitle": "Fruit Cup",        "image": "images/booster/courses/fruit3.jpg",       "icon": "images/booster/cups/fruit.png"},
+    {"title": "Yoshi's Island",          "subTitle": "Fruit Cup",        "image": "images/booster/courses/fruit4.jpg",       "icon": "images/booster/cups/fruit.png"},
+    {"title": "Bangkok Rush",            "subTitle": "Boomerang Cup",    "image": "images/booster/courses/boomerang1.jpg",   "icon": "images/booster/cups/boomerang.png"},
+    {"title": "Mario Circuit",           "subTitle": "Boomerang Cup",    "image": "images/booster/courses/boomerang2.jpg",   "icon": "images/booster/cups/boomerang.png"},
+    {"title": "Waluigi Stadium",         "subTitle": "Boomerang Cup",    "image": "images/booster/courses/boomerang3.jpg",   "icon": "images/booster/cups/boomerang.png"},
+    {"title": "Singapore Speedway",      "subTitle": "Boomerang Cup",    "image": "images/booster/courses/boomerang4.jpg",   "icon": "images/booster/cups/boomerang.png"},
+    {"title": "Athens Dash",             "subTitle": "Feather Cup",      "image": "images/booster/courses/feather1.jpg",     "icon": "images/booster/cups/feather.png"},
+    {"title": "Daisy Cruiser",           "subTitle": "Feather Cup",      "image": "images/booster/courses/feather2.jpg",     "icon": "images/booster/cups/feather.png"},
+    {"title": "Moonview Highway",        "subTitle": "Feather Cup",      "image": "images/booster/courses/feather3.jpg",     "icon": "images/booster/cups/feather.png"},
+    {"title": "Squeaky Clean Sprint",    "subTitle": "Feather Cup",      "image": "images/booster/courses/feather4.jpg",     "icon": "images/booster/cups/feather.png"},
+    {"title": "Los Angeles Laps",        "subTitle": "Cherry Cup",       "image": "images/booster/courses/cherry1.jpg",      "icon": "images/booster/cups/cherry.png"},
+    {"title": "Sunset Wilds",            "subTitle": "Cherry Cup",       "image": "images/booster/courses/cherry2.jpg",      "icon": "images/booster/cups/cherry.png"},
+    {"title": "Koopa Cape",              "subTitle": "Cherry Cup",       "image": "images/booster/courses/cherry3.jpg",      "icon": "images/booster/cups/cherry.png"},
+    {"title": "Vancouver Velocity",      "subTitle": "Cherry Cup",       "image": "images/booster/courses/cherry4.jpg",      "icon": "images/booster/cups/cherry.png"}
   ]
 }
