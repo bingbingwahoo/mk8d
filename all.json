@@ -6,12 +6,14 @@
   "subTitle": "Rank all courses by comparing pairs of courses",
   "navigation": [
     {"text": "Original", "url": "/"},
+    {"text": "All Courses"},
     {"text": "Booster Wave 1", "data": "booster1.json"},
     {"text": "Booster Wave 2", "data": "booster2.json"},
     {"text": "Booster Wave 3", "data": "booster3.json"},
     {"text": "Booster Wave 4", "data": "booster4.json"},
     {"text": "Booster Wave 5", "data": "booster5.json"},
-    {"text": "Booster Waves 1-5", "data": "booster1-5.json"}
+    {"text": "Booster Wave 6", "data": "booster6.json"},
+    {"text": "Booster Waves 1-6", "data": "booster1-6.json"}
   ],
   "options": [
     {"title": "Mario Kart Stadium",      "subTitle": "Mushroom Cup",  "image": "images/courses/mushroom1.jpg",  "icon": "images/cups/mushroom.png"},
@@ -101,6 +103,14 @@
     {"title": "Los Angeles Laps",        "subTitle": "Cherry Cup",       "image": "images/booster/courses/cherry1.jpg",      "icon": "images/booster/cups/cherry.png"},
     {"title": "Sunset Wilds",            "subTitle": "Cherry Cup",       "image": "images/booster/courses/cherry2.jpg",      "icon": "images/booster/cups/cherry.png"},
     {"title": "Koopa Cape",              "subTitle": "Cherry Cup",       "image": "images/booster/courses/cherry3.jpg",      "icon": "images/booster/cups/cherry.png"},
-    {"title": "Vancouver Velocity",      "subTitle": "Cherry Cup",       "image": "images/booster/courses/cherry4.jpg",      "icon": "images/booster/cups/cherry.png"}
+    {"title": "Vancouver Velocity",      "subTitle": "Cherry Cup",       "image": "images/booster/courses/cherry4.jpg",      "icon": "images/booster/cups/cherry.png"},
+    {"title": "Rome Avanti",             "subTitle": "Acorn Cup",        "image": "images/booster/courses/acorn1.jpg",       "icon": "images/booster/cups/acorn.png"},
+    {"title": "DK Mountain",             "subTitle": "Acorn Cup",        "image": "images/booster/courses/acorn2.jpg",       "icon": "images/booster/cups/acorn.png"},
+    {"title": "Daisy Circuit",           "subTitle": "Acorn Cup",        "image": "images/booster/courses/acorn3.jpg",       "icon": "images/booster/cups/acorn.png"},
+    {"title": "Piranha Plant Cove",      "subTitle": "Acorn Cup",        "image": "images/booster/courses/acorn4.jpg",       "icon": "images/booster/cups/acorn.png"},
+    {"title": "Madrid Drive",            "subTitle": "Spiny Cup",        "image": "images/booster/courses/spiny1.jpg",       "icon": "images/booster/cups/spiny.png"},
+    {"title": "Rosalina's Ice World",    "subTitle": "Spiny Cup",        "image": "images/booster/courses/spiny2.jpg",       "icon": "images/booster/cups/spiny.png"},
+    {"title": "Bowser's Castle 3",       "subTitle": "Spiny Cup",        "image": "images/booster/courses/spiny3.jpg",       "icon": "images/booster/cups/spiny.png"},
+    {"title": "Rainbow Road Wii",        "subTitle": "Spiny Cup",        "image": "images/booster/courses/spiny4.jpg",       "icon": "images/booster/cups/spiny.png"}
   ]
 }

@@ -6,12 +6,14 @@
   "subTitle": "Rank the Booster Pass Wave 4 courses by comparing pairs of courses",
   "navigation": [
     {"text": "Original", "url": "/"},
+    {"text": "All Courses", "data": "all.json"},
     {"text": "Booster Wave 1", "data": "booster1.json"},
     {"text": "Booster Wave 2", "data": "booster2.json"},
     {"text": "Booster Wave 3", "data": "booster3.json"},
     {"text": "Booster Wave 4"},
     {"text": "Booster Wave 5", "data": "booster5.json"},
-    {"text": "Booster Waves 1-5", "data": "booster1-5.json"}
+    {"text": "Booster Wave 6", "data": "booster6.json"},
+    {"text": "Booster Waves 1-6", "data": "booster1-6.json"}
   ],
   "options": [
     {"title": "Amsterdam Drift",    "subTitle": "Fruit Cup",     "image": "images/booster/courses/fruit1.jpg",     "icon": "images/booster/cups/fruit.png"},

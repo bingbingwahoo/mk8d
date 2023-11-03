@@ -1,0 +1,28 @@
+{
+  "favicon": "images/favicon.ico",
+  "background": "images/background.jpg",
+  "icon": "images/eight.png",
+  "title": "Mario Kart 8 Deluxe Course Sorter",
+  "subTitle": "Rank the Booster Pass Wave 6 courses by comparing pairs of courses",
+  "navigation": [
+    {"text": "Original", "url": "/"},
+    {"text": "All Courses", "data": "all.json"},
+    {"text": "Booster Wave 1", "data": "booster1.json"},
+    {"text": "Booster Wave 2", "data": "booster2.json"},
+    {"text": "Booster Wave 3", "data": "booster3.json"},
+    {"text": "Booster Wave 4", "data": "booster4.json"},
+    {"text": "Booster Wave 5", "data": "booster5.json"},
+    {"text": "Booster Wave 6"},
+    {"text": "Booster Waves 1-6", "data": "booster1-6.json"}
+  ],
+  "options": [
+    {"title": "Rome Avanti",          "subTitle": "Acorn Cup", "image": "images/booster/courses/acorn1.jpg", "icon": "images/booster/cups/acorn.png"},
+    {"title": "DK Mountain",          "subTitle": "Acorn Cup", "image": "images/booster/courses/acorn2.jpg", "icon": "images/booster/cups/acorn.png"},
+    {"title": "Daisy Circuit",        "subTitle": "Acorn Cup", "image": "images/booster/courses/acorn3.jpg", "icon": "images/booster/cups/acorn.png"},
+    {"title": "Piranha Plant Cove",   "subTitle": "Acorn Cup", "image": "images/booster/courses/acorn4.jpg", "icon": "images/booster/cups/acorn.png"},
+    {"title": "Madrid Drive",         "subTitle": "Spiny Cup", "image": "images/booster/courses/spiny1.jpg", "icon": "images/booster/cups/spiny.png"},
+    {"title": "Rosalina's Ice World", "subTitle": "Spiny Cup", "image": "images/booster/courses/spiny2.jpg", "icon": "images/booster/cups/spiny.png"},
+    {"title": "Bowser's Castle 3",    "subTitle": "Spiny Cup", "image": "images/booster/courses/spiny3.jpg", "icon": "images/booster/cups/spiny.png"},
+    {"title": "Rainbow Road Wii",     "subTitle": "Spiny Cup", "image": "images/booster/courses/spiny4.jpg", "icon": "images/booster/cups/spiny.png"}
+  ]
+}
